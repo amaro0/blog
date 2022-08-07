@@ -1,3 +1,9 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://amaro0.xyz/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = ''
+theme = 'hugo-bearblog'
+enableRobotsTXT = true
+
+[permalinks]
+blog = "/:slug/"
+tags = "/blog/:slug"
