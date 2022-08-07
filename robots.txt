@@ -1,0 +1,2 @@
+User-Agent: *
+Sitemap: https://amaro0.xyz/sitemap.xml
