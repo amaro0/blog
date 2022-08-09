@@ -1,6 +1,7 @@
 ---
 title: "Fixing not working AWS ElasticBeanstalk cron job leader instance select"
 date: 2022-08-07T23:10:31+02:00
+tags: [ "AWS", "ElasticBeanstalk", "bash" ]
 draft: true
 ---
 
