@@ -12,7 +12,7 @@ tags: [ "AWS", "ElasticBeanstalk", "bash" ]
 After doing all steps from [docs](https://aws.amazon.com/premiumsupport/knowledge-center/cron-job-elastic-beanstalk/),
 trying multiple solutions from stackoverflow and wasting countless hours, I found nothing was working for this basic EB
 env.
-Once again AWS documentation failed me!
+Once again, AWS documentation failed me!
 I have decided to stick with solution from docs and debug actual reason why `test_cron.sh` was not detecting leader
 instance.
 The issue I found on `test_cron.sh` script was both `INSTANCE_ID` and `REGION` were not populated with
