@@ -22,7 +22,6 @@ This micro benchmark compares native html/template and templ in three simple sce
 #### Simple p tag
 
 ```html
-
 <div>Hello, {{ .Name }}</div>
 ```
 
