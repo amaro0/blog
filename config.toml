@@ -7,3 +7,7 @@ enableRobotsTXT = true
 [permalinks]
 blog = "/:slug/"
 tags = "/blog/:slug"
+
+[params]
+#global comments enable
+comments = true
